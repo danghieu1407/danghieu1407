@@ -32,4 +32,4 @@
 </p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=danghieu1407&row=2&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=danghieu1407&row=1&no-bg=true)
