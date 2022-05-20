@@ -1,6 +1,6 @@
 
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/gflU9e7ZWW1o38OJMx/giphy.gif" />
+
 
 
 
