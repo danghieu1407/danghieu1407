@@ -1,12 +1,9 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=Hi%20there,%20I'm%20Daehyeu%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header"/>
-
- Added rainbow gradient typing animation with multiple colors 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B,4ECDC4,45B7D1,FFA07A,98D8C8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%7C+Full+Stack+Developer+🚀" alt="Typing SVG" />
 
 <p align="center">
-   Updated badges with vibrant gradient colors 
   <a href="mailto:danghieu140701@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
