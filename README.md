@@ -48,7 +48,6 @@ const developer = {
 <summary><b>🎨 Frontend</b></summary>
 <br/>
 
- Kept original vibrant badge colors for frontend 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,7 +59,6 @@ const developer = {
 <summary><b>⚙️ Backend</b></summary>
 <br/>
 
- Kept original vibrant badge colors for backend 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -72,7 +70,6 @@ const developer = {
 <summary><b>🗄️ Database & Tools</b></summary>
 <br/>
 
- Kept original vibrant badge colors for database & tools 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -92,7 +89,6 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-   Added colorful gradient themes to stats 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danghieu1407&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&ring_color=FFA07A" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danghieu1407&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFA07A&currStreakLabel=45B7D1&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
@@ -105,7 +101,6 @@ const developer = {
 <br/>
 
 <div align="center">
-   Updated activity graph with vibrant gradient colors 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danghieu1407&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFA07A" alt="Contribution Graph"/>
 </div>
 
